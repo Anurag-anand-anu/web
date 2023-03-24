@@ -26,7 +26,6 @@
 }
 #fleft{
 	float: right;
-	padding-right: 30px;
 	padding-left: auto;
 	color: blue;
 }
@@ -39,8 +38,6 @@ footer{
 #fright{
 	
 	display: inline-block;
-	margin-left: 15%;
-	margin-right:15%;
 	text-align: center;
 	color: blue;
   
